@@ -1,0 +1,54 @@
+
+
+
+body#form{
+    position: absolute;
+    left:380px;
+}
+
+body#list{
+    position: absolute;
+    left:240px
+}
+
+div#formulario {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 400px;
+    width: 600px;
+
+}
+
+div#lista{
+
+    border: 0px solid black;
+    border-radius: 5px;
+    height: 320px;
+    width: 900px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    background-color: darkgreen;
+    color: white;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+
+}
+
+table#tabela {
+
+
+}
+
